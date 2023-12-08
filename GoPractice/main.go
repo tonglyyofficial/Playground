@@ -1,8 +1,11 @@
 package main
 
-// "fmt"
+import (
+	// "fmt"
 
-// "rsc.io/quote"
+	// "rsc.io/quote"
+	"github.com/tonglyyofficial/Playground/GoPractice/hello"
+)
 
 func main() {
 
