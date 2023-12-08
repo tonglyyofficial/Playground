@@ -1,11 +1,8 @@
 package main
 
-import (
-	// "fmt"
+// "fmt"
 
-	// "rsc.io/quote"
-	"github.com/tonglyyofficial/Playground/hello"
-)
+// "rsc.io/quote"
 
 func main() {
 
