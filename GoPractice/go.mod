@@ -1,4 +1,4 @@
-module github.com/tonglyyofficial/Playground/ForGoLearning
+module github.com/tonglyyofficial/Playground/GoPractice
 
 go 1.21.4
 
